@@ -1,5 +1,5 @@
 # Date My Professor
-Parody of Rate My Professor. 
+A dating site that is a parody of Rate My Professor. 
 
 Used to showcase various backend skills such as:
 1. User account creation
